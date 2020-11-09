@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f68609a6-9695-44fc-8698-c728b69577ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jn2eSP5OYHhJFMS3pyXstiDhKI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="TestNG.Test_Get.Get_test4">
+    <configuration name="Test_Get" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="restassured_Task" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test_Get" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Get.Get_test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="restassured_Task" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test_Get" />
+      <option name="METHOD_NAME" value="Get_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Get.Get_test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="restassured_Task" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test_Get" />
+      <option name="METHOD_NAME" value="Get_test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Get.Get_test3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="restassured_Task" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test_Get" />
+      <option name="METHOD_NAME" value="Get_test3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Get.Get_test4" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="restassured_Task" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test_Get" />
+      <option name="METHOD_NAME" value="Get_test4" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Test_Get.Get_test4" />
+        <item itemvalue="TestNG.Test_Get.Get_test3" />
+        <item itemvalue="TestNG.Test_Get.Get_test2" />
+        <item itemvalue="TestNG.Test_Get.Get_test" />
+        <item itemvalue="TestNG.Test_Get" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f68609a6-9695-44fc-8698-c728b69577ff" name="Default Changelist" comment="" />
+      <created>1604425629861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604425629861</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="254" key="GridCell.Tab.0.bottom" timestamp="1604925785487">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="403" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1604433020908" />
+    <state width="1398" height="254" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1604925785487" />
+    <state width="1398" height="254" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1604441831126" />
+    <state width="1398" height="254" key="GridCell.Tab.0.center" timestamp="1604925785486">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="403" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1604433020907" />
+    <state width="1398" height="254" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1604925785486" />
+    <state width="1398" height="254" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1604441831124" />
+    <state width="1398" height="254" key="GridCell.Tab.0.left" timestamp="1604925785486">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="403" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1604433020906" />
+    <state width="1398" height="254" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1604925785486" />
+    <state width="1398" height="254" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1604441831124" />
+    <state width="1398" height="254" key="GridCell.Tab.0.right" timestamp="1604925785487">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="403" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1604433020907" />
+    <state width="1398" height="254" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1604925785487" />
+    <state width="1398" height="254" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1604441831125" />
+  </component>
+</project>
